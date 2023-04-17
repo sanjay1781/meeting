@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-jost: Jost;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-3xl: 22px;
+  --font-size-6xl: 25px;
+  --font-size-9xl: 28px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslategray: #0d3451;
+  --color-darkgray-100: #a5adba;
+  --color-darkgray-200: rgba(165, 173, 186, 0.42);
+
+  /* border radiuses */
+  --br-3xs: 10px;
+}
